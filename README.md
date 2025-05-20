@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-- 📌I'm a full-stack developer with a technical and analytical focus.
-- 💁‍♀️I'm passionate about building efficient web solutions and harnessing the power of data through analysis and visualization.
-- 🎯My goal is to integrate technology with business intelligence to generate real impact and facilitate data-driven decisions.
+📌I'm a full-stack developer with a technical and analytical focus.<br>
+💁‍♀️I'm passionate about building efficient web solutions and harnessing the power of data through analysis and visualization.<br>
+🎯My goal is to integrate technology with business intelligence to generate real impact and facilitate data-driven decisions.
 
 ## 🌐 Socials:
 
